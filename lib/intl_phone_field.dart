@@ -495,7 +495,7 @@ class _IntlPhoneFieldState extends State<IntlPhoneField> {
                   const SizedBox(width: 4),
                   widget.dropdownIcon,
                 ],
-                const SizedBox(width: 8),
+                const SizedBox(width: 14),
               ],
             ),
           ),
